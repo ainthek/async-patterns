@@ -9,4 +9,4 @@ Primary goal is to have a catalogue of code and links.
 ## Links
 
 - <https://www.npmjs.com/package/async>
-
+- <http://www.sebastianseilund.com/nodejs-async-in-practice>

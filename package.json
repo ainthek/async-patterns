@@ -1,0 +1,24 @@
+{
+  "name": "async-patterns",
+  "version": "1.0.0",
+  "description": "I have strated this repo to provide solutions for various async patterns in JavaScript and maybe compare them with Java or other languages implementations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainthek/async-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainthek/async-patterns/issues"
+  },
+  "homepage": "https://github.com/ainthek/async-patterns#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^2.5.0",
+    "mocha": "^3.5.3"
+  }
+}
